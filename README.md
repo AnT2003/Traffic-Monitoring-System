@@ -50,18 +50,18 @@ Ensure the following are installed:
 ### API Endpoints
 Results include a video with bouding boxes:
 
+Uploading Vehicle Detection and License Plate Recognition 2024-12-22 15-18-38.mp4…
+
 
 and an excel file to storage results:
+
 <img width="308" alt="image" src="https://github.com/user-attachments/assets/0feb412f-0273-48f0-9764-a994a8aa8499" />
 
 
 ## Directory Structure
 
-project-root/
-├── app.py                 # Main application file
-├── license_plate_detector.pt  # YOLO model for license plate detection
-├── requirement.txt     # To download python environments
-├── templates/index.html     # html webpage to demo application
+<img width="371" alt="image" src="https://github.com/user-attachments/assets/207d4664-b4a2-4694-b54e-f872069264b1" />
+
 
 ## Enhancements and Customization
 - **Extend Vehicle Classes:** Add more vehicle types by fine-tuning the YOLO model.
