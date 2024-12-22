@@ -37,7 +37,7 @@ Ensure the following are installed:
 
 ### Running the Application
 1. Clone the project repository to your local machine:
-- git clone https://github.com/your-repo/traffic-monitoring-system.git
+- git clone https://github.com/AnT2003/Traffic-Monitoring-System.git
 - cd traffic-monitoring-system
 2. Install the required Python packages:
 - pip install -r requirements.txt
