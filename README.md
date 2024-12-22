@@ -50,7 +50,9 @@ Ensure the following are installed:
 ### API Endpoints
 Results include a video with bouding boxes:
 
-Uploading Vehicle Detection and License Plate Recognition 2024-12-22 15-18-38.mp4…
+
+https://github.com/user-attachments/assets/be5f1af0-d014-4080-a219-735f987b179a
+
 
 
 and an excel file to storage results:
